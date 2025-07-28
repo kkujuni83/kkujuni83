@@ -49,12 +49,12 @@
 
 
 
-#[KDT] 기업맞춤형 AI+X 융복합 인재 양성 공부일지
+# [KDT] 기업맞춤형 AI+X 융복합 인재 양성 공부일지
 ⚠️ 본 레파지토리는 🔴 수료일(2025.09.02) 🔴 에 사라질 예정이니 필요한 데이터는 미리 다운로드 해 주세요! ⚠️
 
 \\aaa (강사용 PC)
 
-## 공부 일지
+# 공부 일지
 <img width="628" height="893" alt="Image" src="https://github.com/user-attachments/assets/6ddb1b76-2916-4eac-a67b-8f30dbd2506c" />
 
 
